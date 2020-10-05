@@ -34,9 +34,7 @@ Weder77 have many plugins :
 
 ### Development
 
-Want to contribute? Great!
-
-I am looking for an apprenticeship ! If you think you can help me, send me a message at : https://dany-jc.fr#contact
+If you have any questions, send me a message at : https://dany-jc.fr#contact
 
 
 See you 👋
